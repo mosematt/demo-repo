@@ -1,4 +1,12 @@
 What are you doing?
 
 I'm adding another line here.
+<<<<<<< Updated upstream
 Where is my 4th line
+=======
+<<<<<<< HEAD
+A new line here
+=======
+Where is my 4th line
+>>>>>>> dedc3b1c5a27704aaf35577ae775e75fa5012762
+>>>>>>> Stashed changes
